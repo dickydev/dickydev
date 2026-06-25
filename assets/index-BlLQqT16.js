@@ -32923,12 +32923,6 @@ const Ub = 12,
     "c",
     "k",
     "y",
-    "j",
-    "o",
-    "l",
-    "i",
-    "e",
-    "jolie",
   ];
 function B6() {
   const e = S.useMemo(() => {
