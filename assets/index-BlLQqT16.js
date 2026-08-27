@@ -32934,7 +32934,9 @@ const Ub = 12,
     "a",
     "w",
     "a",
-    "aku sayang ayyaa"
+    "ayya",
+    "raya",
+    "aku sayang ayyaa",
   ];
 function B6() {
   const e = S.useMemo(() => {
